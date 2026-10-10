@@ -1,0 +1,16 @@
+{
+  "seasons": [
+    { "year": 2026, "season": "spring", "colors": ["Sage Green", "Cream", "Light Blue", "Lavender"], "styles": ["Minimal", "Romantic", "Casual"], "items": ["Trenchcoat", "Loafer", "Knit vest"] },
+    { "year": 2026, "season": "summer", "colors": ["White", "Beige", "Sky Blue", "Coral"], "styles": ["Minimal", "Sport", "Casual"], "items": ["Linen shirt", "Sandals", "Straw hat"] },
+    { "year": 2026, "season": "autumn", "colors": ["Burgundy", "Brown", "Olive", "Navy", "Cream"], "styles": ["Classic", "Vintage", "Elegant"], "items": ["Blazer", "Chelsea boots", "Wool scarf"] },
+    { "year": 2026, "season": "winter", "colors": ["Black", "Grey", "Navy", "Burgundy", "Camel"], "styles": ["Classic", "Minimal", "Elegant"], "items": ["Wool coat", "Turtleneck", "Leather boots"] }
+  ],
+  "themes": [
+    { "id": "milano-cortina-2026", "titleTr": "Milano Cortina 2026 Kış Olimpiyatları", "titleEn": "Milano Cortina 2026 Winter Olympics", "interest": "sport",
+      "source": "https://www.olympics.com/en/milano-cortina-2026", "starts": "2026-01-01", "expires": "2027-01-01", "colors": ["White", "Navy", "Grey"], "styles": ["Sport", "Minimal"] },
+    { "id": "fifa-world-cup-2026", "titleTr": "FIFA Dünya Kupası 2026", "titleEn": "FIFA World Cup 2026", "interest": "sport",
+      "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "starts": "2026-01-01", "expires": "2027-01-01", "colors": ["White", "Red", "Navy"], "styles": ["Sport", "Street", "Casual"] },
+    { "id": "pantone-2026-cloud-dancer", "titleTr": "Pantone 2026 Yılın Rengi: Cloud Dancer", "titleEn": "Pantone 2026 Color of the Year: Cloud Dancer", "interest": "design",
+      "source": "https://www.pantone.com/color-of-the-year/2026", "starts": "2026-01-01", "expires": "2027-01-01", "colors": ["Cream", "White"], "styles": ["Minimal"] }
+  ]
+}

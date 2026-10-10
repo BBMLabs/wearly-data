@@ -4,3 +4,4 @@ Wearly mobil uygulamasının internetten güncellediği herkese açık veriler (
 
 - `style_tips.json`: stil ipucu kuralları. Burada yapılan değişiklik, uygulama güncellemesi gerekmeden kullanıcılara ~12 saat içinde ulaşır.
   Bozuk/eksik dosya (5 kuraldan az) uygulama tarafından yok sayılır.
+- `trends.json`: sezon trendleri ve "yılın olayları" temaları (kaynak bağlantılı, bitiş tarihli).
